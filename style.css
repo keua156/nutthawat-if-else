@@ -1,0 +1,29 @@
+body{
+    background-image: url('bg.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+table {
+  font-family: arial, sans-serif;
+  width: 100%;
+  width: 260px;
+  background-color: aliceblue;
+}
+
+td, th {
+  border: 1px solid #000;
+  text-align: left;
+  padding: 6px;
+}
+#btn1{
+    font-size: 20px;
+    background-color: green;
+    color: aliceblue;
+    border-radius: 10px;
+    border: none;
+}
+#line1{
+    float: left;
+    border-color: orange;
+}
+
